@@ -1,0 +1,1 @@
+D:\Repository\Core\ConsumeAPIwithReact\consumeapiwithreact.client\obj\Debug\consumeapiwithreact.client.esproj.CoreCompileInputs.cache

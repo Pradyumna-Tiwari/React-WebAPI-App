@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "XN8cuOq8DbBIvRCA1bdpf4tS5JJh5LWoEYzZuQM1geo=",
+  "Source": "ConsumeAPIwithReact.Server",
+  "BasePath": "_content/ConsumeAPIwithReact.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Repository\\Core\\ConsumeAPIwithReact\\consumeapiwithreact.client\\consumeapiwithreact.client.esproj",
+      "Version": 2,
+      "Source": "consumeapiwithreact.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
